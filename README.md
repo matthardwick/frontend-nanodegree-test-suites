@@ -1,17 +1,17 @@
 # Project Overview
 
-### Using [Jasmine](http://jasmine.github.io/), create various tests for a RSS Feed Reader Application.
+Using [Jasmine](http://jasmine.github.io/), create various tests for a RSS Feed Reader Application.
 
 # Launching the Application
 
-## Download or clone this repository, and open index.html in your browser.
+Download or clone this repository, and open index.html in your browser.
 
 ### For Windows Command Prompt/Powershell:
 
     cd frontend-nanodegree-test-suites
     start index.html
 
-### For OSX
+### For OSX:
 
     cd frontend-nanodegree-test-suites
     open index.html
